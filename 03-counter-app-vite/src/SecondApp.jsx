@@ -2,6 +2,6 @@ import React from 'react';
 
 export const SecondApp = () => {
     return (
-        <div>SecondApp</div>
+        <h2>Second App</h2>
     )
 }

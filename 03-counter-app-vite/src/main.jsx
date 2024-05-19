@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { FirstApp } from './FirstApp';
-import { SecondApp } from './SecondApp'
+import { SecondApp } from './SecondApp';
+
 
 
 
